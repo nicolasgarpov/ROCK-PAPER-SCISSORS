@@ -1,0 +1,63 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #416c97; /* Azul oscuro vikingo */
+    color: #ecf0f1; /* Blanco hueso */
+    text-align: center;
+    margin: 50px;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #e74c3c; /* Rojo vikingo */
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    background-color: #ad7340; /* Café madera vikingo */
+    color: #fff; /* Texto blanco */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    color: #e6cc58; /* Azul vikingo */
+    margin: 15px 0;
+  }
+  
+  #computer-choice,
+  #user-choice,
+  #result {
+    font-size: 1em; /* Font más pequeño */
+    font-weight: bold;
+    margin: 10px 0;
+    color: #c8dceb; /* Color más oscuro */
+  }
+  
+  button {
+    background-color: #ad7340; /* Café madera vikingo */
+    color: #fff;
+    font-size: 1em; /* Font más pequeño */
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #d2ca3a; /* Naranja oscuro vikingo */
+  }
+  
+  button:active {
+    transform: scale(0.95);
+  }
+  
+  
+  
+  
